@@ -1,2 +1,13 @@
 # BioDev-Co.
 Reto - TC2005B
+
+Proposito: 
+
+
+Equipo:
+
+Edgar Salazar Rios A01286059
+Eduardo P. Vega Villarreal A01198876
+Diego Maciel Pliego
+Roberto Diego Peiro Loera
+Humberto Figueroa Bouttier
